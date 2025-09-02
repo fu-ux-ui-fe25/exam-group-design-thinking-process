@@ -26,4 +26,4 @@ Dokumentation: Jag vill se era skapade personas.
 
 Dokumentation: Er/a problemformulering/ar, tillsammans med de tolkningar och egna antaganden som gjorts för att definera era personas problem. 
 
-**Ni skall vara färdiga med detta och diskutera era personas, samt er problemformulering, vid Code Review den 11/9, kl 13:00. Ni kommer vid detta tillfälle att delas in i tvärgrupper där ni tar del av varandras upptäckter.**
+**Ni skall vara färdiga med detta och diskutera era personas, samt er problemformulering, vid Code Review den 11/9, kl 13:00. Ni kommer vid detta tillfälle att delas in i tvärgrupper där ni tar del av upptäckter från andra grupper.**
