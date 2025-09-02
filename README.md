@@ -22,7 +22,7 @@ Dokumentation: Jag vill se era skapade personas.
 
 ### Define
 
-1. Använd er insamlade data och era personas för att skapa en problemformulering som belyser vad det är för problem ni försöker lösa.
+1. Använd er insamlade data och era personas för att skapa en problemformulering som belyser vad det är för problem er applikation skall försöka lösa.
 
 Dokumentation: Er/a problemformulering/ar, tillsammans med de tolkningar och egna antaganden som gjorts för att definera era personas problem. 
 
