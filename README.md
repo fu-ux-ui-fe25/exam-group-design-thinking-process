@@ -18,13 +18,13 @@ Ni behöver dokumentera varje steg i processen, då detta i slutet av projektet 
 2. Intervjua minst 8 personer om hur de tänker när de ger bort presenter.
 3. Utifrån er data ska ni skapa 2-3 dataförankrade personas.
 
-Dokumentation: Jag vill se era skapade personas.
+**Dokumentation**: Jag vill se era skapade personas.
 
 ### Define
 
 1. Använd er insamlade data och era personas för att skapa en problemformulering som belyser vad det är för problem er applikation skall försöka lösa.
 
-Dokumentation: Er/a problemformulering/ar, tillsammans med de tolkningar och egna antaganden som gjorts för att definera era personas problem. 
+**Dokumentation**: Er/a problemformulering/ar, tillsammans med de tolkningar och egna antaganden som gjorts för att definera era personas problem. 
 
 **Ni skall vara färdiga med detta och diskutera era personas, samt er problemformulering, vid Code Review den 11/9, kl 13:00. Ni kommer vid detta tillfälle att delas in i tvärgrupper där ni tar del av upptäckter från andra grupper.**
 
@@ -33,7 +33,7 @@ Dokumentation: Er/a problemformulering/ar, tillsammans med de tolkningar och egn
 1. Tillsammans inom gruppen skall ni använda minst en av de övningar vi pratat om i klassrummet (Mind Map, Brainstorming, Brainwriting) för att komma på en lösning på er/a problemforulering/ar.
 2. Bestäm er för om detta skall vara en desktop- eller en mobilapp och håll er till det ena i fortsättningen.
 
-Dokumentation: Redogör för er idéskapandeprocess från problem till lösning. Motivera även varför ni valde desktop-/mobilapp.
+**Dokumentation**: Redogör för er idéskapandeprocess från problem till lösning. Motivera även varför ni valde desktop-/mobilapp.
 
 ### Prototype
 
@@ -41,5 +41,7 @@ Dokumentation: Redogör för er idéskapandeprocess från problem till lösning.
 2. Välj ut de 1-3 bästa prototyperna som gruppen producerat och skapa sedan ytterligare ett par prototyper tillsammans baserat på era favoriter. Ta nu lite längre tid på er och ge era pappersprorotyper mer kärlek.
 3. Kom överens om vilken design ni skall satsa på och skapa en lo-fi-prototyp i Figma av er favoritdesign.
 4. Skapa alla de sidor som en besökare behöver ta sig igenom för att interagera med ert gränssnitt ca 4.
+
+**Dokumentation**: Fotografera era Crazy 8, era solution sketcher, samt er slutliga pappersprototyp och klistra in i dokumentationen. Redogör gärna kortfattat för era designval.
 
 **Ni skall vara färdiga med detta och visa upp era prototyper vid Code Review 18/9 kl 13:00**
