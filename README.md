@@ -38,7 +38,7 @@ Ni behöver dokumentera varje steg i processen, då detta i slutet av projektet 
 ### Prototype
 
 1. Var och en i gruppen kör "panikprototyping" med Crazy 8 (som vi gjorde i klassrummet den 8/9).
-2. Välj ut de 1-3 bästa prototyperna som gruppen producerat och skapa sedan ytterligare ett par prototyper tillsammans baserat på era favoriter. Ta nu lite längre tid på er och ge era pappersprorotyper mer kärlek.
+2. Välj ut de 1-3 bästa prototyperna som gruppen producerat och skapa sedan ytterligare ett par prototyper tillsammans baserat på era favoriter. Ta nu lite längre tid på er och ge era pappersprorotyper mer kärlek (solution sketcher).
 3. Kom överens om vilken design ni skall satsa på och skapa en lo-fi-prototyp i Figma av er favoritdesign.
 4. Skapa alla de sidor som en besökare behöver ta sig igenom för att interagera med ert gränssnitt ca 4.
 
