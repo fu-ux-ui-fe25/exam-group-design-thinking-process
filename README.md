@@ -42,6 +42,37 @@ Ni behöver dokumentera varje steg i processen, då detta i slutet av projektet 
 3. Kom överens om vilken design ni skall satsa på och skapa en lo-fi-prototyp i Figma av er favoritdesign.
 4. Skapa alla de sidor som en besökare behöver ta sig igenom för att interagera med ert gränssnitt ca 4.
 
-**Dokumentation**: Fotografera era Crazy 8, era solution sketcher, samt er slutliga pappersprototyp och klistra in i dokumentationen. Redogör gärna kortfattat för era designval.
+**Dokumentation**: Fotografera era Crazy 8, era solution sketcher, samt er slutliga pappersprototyp och klistra in i dokumentationen. Redogör gärna kortfattat för era designval. Länka till alla era Figmaprototyper.
 
 **Ni skall vara färdiga med detta och visa upp era prototyper vid Code Review 18/9 kl 13:00**
+
+### Test
+
+1. Bestäm VAD det är ni vill testa och färdigställ era interaktiva prototyper så att de fyller testets syfte.
+2. Skapa en testplan (MAX en A4-sida) innehållandes *mål & syfte*, *testmetod*, *testuppgifter*, *roller*, samt *datainsamling*.
+3. Testa era prototyper på minst 8 potentiella användare. OBS! Ni får inte dela upp arbetet här och ta ex. 3 vardera. Testerna genomför ni tillsammans i gruppen.
+4. Sammanfatta era upptäckter i en kortare testrapport (ca 0.5 - 1.5 A4-sida) där ni sammanställer era insamlade data ([se exempel här]()), drar slutsatser kring vad era tester faktiskt besvarade för frågor, och rekommendera nästa steg (ex. gå till produktion, nästa test osv.).
+
+## Code Review 2/10
+
+Vid detta Code Reviewtillfälle kommer ni att delas in i tvärgrupper och få diskutionsfrågor från olika delar av projektet, dock med störst fokus på testandet och era slutsatser. 
+Detta är ingen presentation, utan mer av en diskussion kring vad ni lärt er under projektets gång och hur just er grupp hanterat olika delar av Design Thinkingprocessen.
+
+## Dokumentation
+
+När projektet nu är avklarat så bör gruppens dokumentation innehålla följande:
+
+1. Era personas.
+2. Era problemformuleringar.
+3. Redogörelse för er idéskapandeprocess. Vad gjorde ni, hur gjorde ni, och vad kom ni fram till?
+4. Foton på era pappersprototyper, länkar till era Figmaprototyper. Se till så att jag har åtkomst till era Figmaprojekt!
+5. Er testplan och er testrapport.
+
+## Inlämning
+
+Ni lämnar in en länk till gruppens gemensamma dokumentation senast kl 23:59 fredagen den 3/10 på Azomo. **Viktigt!** Se till så att jag har åtkomst till er dokumentation, och tänk på att **alla** i gruppen måste lämna in länken.
+
+## Bedömning
+
+För betyget **Godkänt** skall alla ovanstående uppgifter genomföras enligt instuktioner.
+
