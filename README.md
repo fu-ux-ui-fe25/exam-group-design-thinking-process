@@ -51,7 +51,7 @@ Ni behöver dokumentera varje steg i processen, då detta i slutet av projektet 
 1. Bestäm VAD det är ni vill testa och färdigställ era interaktiva prototyper så att de fyller testets syfte.
 2. Skapa en testplan (MAX en A4-sida) innehållandes *mål & syfte*, *testmetod*, *testuppgifter*, *roller*, samt *datainsamling*.
 3. Testa era prototyper på minst 8 potentiella användare. OBS! Ni får inte dela upp arbetet här och ta ex. 3 vardera. Testerna genomför ni tillsammans i gruppen.
-4. Sammanfatta era upptäckter i en kortare testrapport (ca 0.5 - 1.5 A4-sida) där ni sammanställer era insamlade data ([se exempel här]()), drar slutsatser kring vad era tester faktiskt besvarade för frågor, och rekommendera nästa steg (ex. gå till produktion, nästa test osv.).
+4. Sammanfatta era upptäckter i en kortare testrapport (ca 0.5 - 1.5 A4-sida) där ni sammanställer era insamlade data ([se exempel här](https://drive.google.com/file/d/1WiOQ1rB9gzJHBelYkNxACRQeD56Vv2ha/view?usp=sharing)), drar slutsatser kring vad era tester faktiskt besvarade för frågor, och rekommendera nästa steg (ex. gå till produktion, nästa test osv.).
 
 ## Code Review 2/10
 
